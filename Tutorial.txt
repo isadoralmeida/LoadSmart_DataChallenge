@@ -2,7 +2,7 @@ Tutorial to reproduce solution:
 
 1 -  Create a PostgreSQL OR Any other Database by using DW.sql script located inside the SCRIPT_SQL folder
 
-2 - Install Talend Open Source located inside the SCRIPT_ETL folder
+2 - Download and Install Talend Open Source located inside the SCRIPT_ETL folder (Version used: TOS_DI-20211109_1610-V8.0.1-windows-installer)
 
 3 - Unzip ETL_LOADSMART_DW inside Talend Open Source Workspace (path:
 C:\Program Files (x86)\TOS_DI-8.0.1\studio\workspace)
