@@ -28,7 +28,7 @@ C:\Program Files (x86)\TOS_DI-8.0.1\studio\workspace)
  
  5.4 - Edit connection to retrive the loadsmart_DW and save
 
-6 - Run the 3 jobs in **Talend 
+6 - Run the 3 jobs in **Talend**
 
 6.1 Job 1  - insert_Raw_Dataset_To_Staging_01
 
